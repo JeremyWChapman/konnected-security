@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FIRMWARE_NAME=konnected-firmware-2-0-5
+FIRMWARE_NAME=konnected-firmware-2-2
 FILESYSTEM_NAME=0x80000-32mb-konnected-2-1-4
 PORT=/dev/cu.wchusbserial1410
 
